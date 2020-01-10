@@ -1,0 +1,39 @@
+{
+  "dragons": [
+    {
+      "id": 1,
+      "name": "Toothless",
+      "description": "A Night Fury",
+      "image": "https://www.wikihow.com/images/b/b2/Draw-Toothless-Step-24.jpg",
+      "atWar": false
+    },
+    {
+      "id": 2,
+      "name": "Benedict Cumberbark",
+      "description": "He is Fire, He is Death",
+      "image": "https://secure.img1-ag.wfcdn.com/im/07524045/resize-h700-p1-w700%5Ecompr-r85/3670/36706785/Teacup+Pug+Puppy+Statue.jpg",
+      "atWar": false
+    },
+    {
+      "id": 3,
+      "name": "Bozar",
+      "description": "An uninteresting dragon",
+      "image": "https://static.boredpanda.com/blog/wp-content/uploads/2015/05/What-are-dragons-doing-nowadays-fb3.jpg",
+      "atWar": true
+    },
+    {
+      "id": 4,
+      "name": "Bradley Pooper",
+      "description": "A star is born",
+      "image": "https://s.abcnews.com/images/Lifestyle/puppy-ht-3-er-170907_4x3_992.jpg",
+      "atWar": true
+    },
+    {
+      "id": 5,
+      "name": "Bark Ruffalo",
+      "description": "You wouldn't like him when he's angry",
+      "image": "https://mk0vitaminsforpt67wc.kinstacdn.com/wp-content/uploads/2013/06/english-bulldog-puppy-for-sale-909x1024.jpg",
+      "atWar": true
+    }
+  ]
+}
